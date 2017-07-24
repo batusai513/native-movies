@@ -27,8 +27,8 @@ export default Movie;
 
 const styles = StyleSheet.create({
   image: {
-    flex: 2,
-    width: 320,
-    height: 400
+    flex: 1,
+    width: null,
+    height: 300
   }
 });
